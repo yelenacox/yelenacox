@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋, my name is Yelena Cox 
 
-My name is Yelena Cox and I am a full-stack software developer student at Nashville Software School.
+#### I am a full-stack software developer student at Nashville Software School.
 
 - I have completed the front-end portion, learning React, JavaScript, CSS, and HTML.
 
