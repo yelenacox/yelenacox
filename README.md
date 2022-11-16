@@ -2,9 +2,9 @@
 
 #### I am a full-stack software developer student at Nashville Software School.
 
-- I have completed the front-end portion, learning React, JavaScript, CSS, and HTML.
+- 😄 I have completed the front-end portion, learning React, JavaScript, CSS, and HTML.
 
-- I am currently enrolled in the back-end portion, learning C# and .NET.
+- 🌱 I am currently learning C# and .NET.
 
 - My front-end capstone can be viewed here: [Patootle](https://github.com/yelenacox/capstone-patootle)
 
