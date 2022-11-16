@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Yelena Cox and I am a full-stack software developer student at Nashville Software School.
+
+- I have completed the front-end portion, learning React, JavaScript, CSS, and HTML.
+
+- I am currently enrolled in the back-end portion, learning C# and .NET.
+
+
 <!--
 **yelenacox/yelenacox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
