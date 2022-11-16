@@ -6,6 +6,8 @@ My name is Yelena Cox and I am a full-stack software developer student at Nashvi
 
 - I am currently enrolled in the back-end portion, learning C# and .NET.
 
+- My front-end capstone can be viewed here: [Patootle](https://github.com/yelenacox/capstone-patootle)
+
 
 <!--
 **yelenacox/yelenacox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
