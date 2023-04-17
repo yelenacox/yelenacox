@@ -1,4 +1,4 @@
-### Hi 👋, my name is Yelena Cox 
+<!--### Hi 👋, my name is Yelena Cox 
 
 #### I am a full-stack software developer student at Nashville Software School.
 
@@ -9,7 +9,7 @@
 - My front-end capstone can be viewed here: [Patootle](https://github.com/yelenacox/capstone-patootle)
 
 
-<!--
+
 **yelenacox/yelenacox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
