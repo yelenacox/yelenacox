@@ -1,2 +1,3 @@
 Hi 👋, my name is Yelena Cox and I am a full-stack software developer.
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yelenacox)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yelenacox&hide=stars)
