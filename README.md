@@ -1,14 +1,6 @@
-<!--### Hi 👋, my name is Yelena Cox 
+Hi 👋, my name is Yelena Cox and I am a full-stack software developer.
 
-#### I am a full-stack software developer student at Nashville Software School.
-
-- 😄 I have completed the front-end portion, learning React, JavaScript, CSS, and HTML.
-
-- 🌱 I am currently learning C# and .NET.
-
-- My front-end capstone can be viewed here: [Patootle](https://github.com/yelenacox/capstone-patootle)
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yelenacox&hide=contribs,prs)
 
 **yelenacox/yelenacox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
